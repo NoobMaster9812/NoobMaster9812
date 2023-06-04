@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoobMaster9812
 - 👀 I’m interested in Backend dev.
-- 🌱 I’m currently learning Python,Go 
+- 🌱 I’m currently learning C# (Python,Go optional) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by my email serzhant9889@gmail.com
 
